@@ -45,3 +45,5 @@ the training of the networks.
 - Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep reinforcement learning with double q-learning." Thirtieth AAAI conference on articial intelligence. 2016.
 - Wang, Ziyu, et al. "Dueling network architectures for deep reinforcement learning." Inter-national conference on machine learning. 2016.
 - Schaul, Tom, et al. "Prioritized experience replay." arXiv preprint arXiv:1511.05952 (2015).
+
+- Sum Tree implementation: https://gist.github.com/simoninithomas/d6adc6edb0a7f37d6323a5e3d2ab72ec
