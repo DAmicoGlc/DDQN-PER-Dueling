@@ -40,7 +40,7 @@ tensorboard==1.15.2
 tensorboard-plugin-wit==1.7.0
 tensorflow==1.15.2
 tensorflow-estimator==1.15.2
-tensorflow-gpu==1.15.2
+tensorflow-gpu==2.6.4
 termcolor==1.1.0
 Theano==1.0.5
 urllib3==1.25.10
